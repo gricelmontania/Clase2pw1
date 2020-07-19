@@ -1,0 +1,29 @@
+
+
+#tabla
+ {
+    
+    text-align: left;
+    width: 100%;
+    border-collapse: collapse;
+    
+    border: 1px solid black;
+  
+}
+
+thead{
+    background-color:darkgray ;
+    widows: 100%;
+    border:1px solid black;
+    
+   
+}
+td{
+    border: 1px solid black;
+}
+th{
+    text-align: center;
+}
+#carga{
+    width: 5%;
+}
